@@ -2,7 +2,7 @@
 
 Hemos creado este repositorio para que todas aquellas Adalabers que encuentren una página, tutorial, manual, vídeo o lo que sea que le parezca interesante lo pueda compartir con el resto de compañeras. Sois libres para añadir lo que queráis, este es vuestro chiringuito.🏖
 
-Si quieres solo curiosear 😉 que hay por aquí, puedes ir directamente al gitbook de este repo: [https://books.adalab.es/recursos-de-las-alumnas-1/](https://books.adalab.es/recursos-de-las-alumnas-1/).
+Si quieres solo curiosear 😉 que hay por aquí, puedes ir directamente al gitbook de este repo: [https://books.adalab.es/recursos-adalabers/](https://books.adalab.es/recursos-adalabers/).
 
 ## Entendiendo la estructura del repo 📋
 
