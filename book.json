@@ -1,0 +1,11 @@
+{
+  "gitbook": "3.2.3",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "title": "Recursos Interesantes",
+  "description": "Repositorio de recursos interesantes encontrados por las Adalabers",
+  "author": "Adalab",
+  "language": "es"
+}
