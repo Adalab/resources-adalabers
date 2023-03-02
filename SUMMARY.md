@@ -41,6 +41,8 @@
   - [Entrevistas técnicas](data-analytics/1.Procesos-de-seleccion/2-entrevistas_técnicas.md)
   - [Pruebas técnicas](data-analytics\1-Procesos-de-seleccion\3-pruebas_técnicas.md)
   - [Portales de empleo](data-analytics/1.Procesos-de-seleccion/4-portales_de_empleo.md)
+  - [Empresas Chachis](data-analytics/1.Procesos-de-seleccion/5-empresas-chachis.md)
+  - [Otros ejercicios útiles](data-analytics/1.Procesos-de-seleccion/6-otros_ejercicios.md)
 
 - [Recursos de formacion](data-analytics\3.Recursos-de-formacion)
   - [Cursos gratuitos](data-analytics/3.Recursos-de-formacion/1-Cursos_gratuitos.md)
