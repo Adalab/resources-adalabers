@@ -1,7 +1,10 @@
 # Cuentas a seguir (Twitter, Linkedin, Twitch, etc.)
 
 ### Twitter
-
+- [Silvia @fischesil](https://twitter.com/fischesil)
+- [Ann Code @anncode](https://twitter.com/anncode)
+- [Tania @geektania](https://twitter.com/geektania)
+- [Meri Calvo @nyan_dev](https://twitter.com/nyan_dev)
 - [Pepe Robles ♻️ @NavisCode](https://twitter.com/NavisCode)
 - [Desiré @helleworld\_](https://twitter.com/helleworld_)
 - [🐣 Ari 🐙 @Ari_Reinventada](https://twitter.com/Ari_Reinventada)
